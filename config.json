@@ -1,0 +1,15 @@
+{
+    "title": "mcgregor",
+    "baseURL": "https:\/\/www.snatna.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759049",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "snatna.com"
+    }
+}
